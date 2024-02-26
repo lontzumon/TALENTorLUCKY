@@ -25,41 +25,85 @@ To investigate whether intelligence or luck has a deeper impact on acquiring wea
 
 ## Intelligence Distribution
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/50e7e5ff-a840-4756-bfe0-ab474439904c)
-Figure 1: Distribution of intelligence among individuals, highlighting the highest/lowest intelligence.
+<figure>
+  (1) Distribution of intelligence among individuals, highlighting the highest/lowest intelligence: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/50e7e5ff-a840-4756-bfe0-ab474439904c" alt="image" style="width: 50%;">
+</figure>
 
 ## Wealthiest Individuals vs. Poorest Individuals
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/d53630d7-65d6-4b44-b9f9-96f8501388ba)
-Figure 2: Information about the wealthiest individuals: money, intelligence, number of events encountered.
+<figure>
+  (2) Information about the wealthiest individuals: money, intelligence, number of events encountered: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/d53630d7-65d6-4b44-b9f9-96f8501388ba" alt="image" style="width: 30%;">
+</figure>
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/92006f9c-e039-45bc-90c7-8403640d6b45)
-Figure 3: Number of events encountered by the wealthiest individuals each year.
+<figure>
+  
+  (3) Number of events encountered by the wealthiest individuals each year: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/92006f9c-e039-45bc-90c7-8403640d6b45" alt="image" style="width: 50%;">
+</figure>
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/1ce176d9-20b2-403c-8755-e7427f078ffe)
-Figure 4: Wealth changes of the wealthiest individuals over time.
+<figure>
+  
+  (4) Wealth changes of the wealthiest individuals over time: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/1ce176d9-20b2-403c-8755-e7427f078ffe" alt="image" style="width: 50%;">
+</figure>
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/caa27cef-c3fe-40f4-826e-b3179f0a7dec)
-Figure 5: Information about the poorest individuals: money, intelligence, number of events encountered.
+<figure>
+  
+  (5) Information about the poorest individuals: money, intelligence, number of events encountered: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/caa27cef-c3fe-40f4-826e-b3179f0a7dec" alt="image" style="width: 30%;">
+</figure>
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/5e30f1b9-c596-4965-b9ec-2cc54ed820ef)
-Figure 6: Number of events encountered by the poorest individuals each year.
+<figure>
+  
+  (6) Number of events encountered by the poorest individuals each year: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/5e30f1b9-c596-4965-b9ec-2cc54ed820ef" alt="image" style="width: 50%;">
+</figure>
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/bfcc3fc1-2ce4-4615-aa93-fd7b8f61eb7c)
-Figure 7: Wealth changes of the poorest individuals over time.
+<figure>
+  
+  (7) Wealth changes of the poorest individuals over time: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/bfcc3fc1-2ce4-4615-aa93-fd7b8f61eb7c" alt="image" style="width: 50%;">
+</figure>
 
 ## Highest Intelligence Individuals vs. Lowest Intelligence Individuals
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/92c19f01-7135-4053-ab5a-e3a0f5840d61)
-Figure 8: Number of events encountered by the most intelligent individuals each year.
+<figure>
+  
+  (8) Number of events encountered by the most intelligent individuals each year: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/92c19f01-7135-4053-ab5a-e3a0f5840d61" alt="image" style="width: 50%;">
+</figure>
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/58757bf8-4d86-4210-9295-e380fb3dcd09)
-Figure 9: Wealth changes of the most intelligent individuals over time.
+
+<figure>
+  
+  (9) Wealth changes of the most intelligent individuals over time: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/58757bf8-4d86-4210-9295-e380fb3dcd09" alt="image" style="width: 50%;">
+</figure>
+
 
 ## Wealth and Population Changes after 40 Years
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/160f8fc5-6574-44d1-b4e5-c083cf491595)
-Figure 10: Changes in wealth after 40 years.
+<figure>
+  
+  (10) Changes in wealth after 40 years: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/160f8fc5-6574-44d1-b4e5-c083cf491595" alt="image" style="width: 50%;">
+</figure>
 
-![image](https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/7eed4b8b-1b4b-4c61-aa6c-a0925be6574e)
-Figure 11: Distribution of wealth after 40 years, comparing the top 20% wealthiest individuals with the bottom 80%.
+<figure>
+  
+  (11) Distribution of wealth after 40 years, comparing the top 20% wealthiest individuals with the bottom 80%: 
+  
+  <img src="https://github.com/lontzumon/TALENTorLUCKY/assets/100392818/7eed4b8b-1b4b-4c61-aa6c-a0925be6574e" alt="image" style="width: 30%;">
+</figure>
